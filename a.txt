@@ -10,3 +10,4 @@ dev 222 ---bug
 github hello
 github hello2
 github hello3
+哈哈 远离王者荣耀 远离英雄联盟 亲近大自然 亲近各种代码
